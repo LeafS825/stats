@@ -9046,7 +9046,7 @@
   },
   "LeafS825/stats": {
     "stars": 0,
-    "clones": 20,
+    "clones": 27,
     "views": 0,
     "history": {
       "2025-12-06": {
@@ -9058,15 +9058,20 @@
         "stars": 0,
         "clones": 20,
         "views": 0
+      },
+      "2025-12-08": {
+        "stars": 0,
+        "clones": 7,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 20,
+    "last_clones": 27,
     "last_views": 0
   },
   "LeafS825/LeafS825": {
-    "stars": 0,
-    "clones": 16,
+    "stars": 1,
+    "clones": 17,
     "views": 0,
     "history": {
       "2025-12-06": {
@@ -9078,10 +9083,15 @@
         "stars": 0,
         "clones": 6,
         "views": 0
+      },
+      "2025-12-08": {
+        "stars": 1,
+        "clones": 1,
+        "views": 0
       }
     },
-    "last_stars": 0,
-    "last_clones": 16,
+    "last_stars": 1,
+    "last_clones": 17,
     "last_views": 0
   },
   "SECTL/SecRandom-docs": {
@@ -9098,11 +9108,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-08": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 5,
-    "last_clones": 114,
-    "last_views": 39
+    "last_clones": 85,
+    "last_views": 26
   },
   "LeafS825/SecRandom-Hub111": {
     "stars": 0,
@@ -9118,10 +9133,15 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2025-12-08": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 2,
+    "last_clones": 1,
     "last_views": 0
   },
   "LeafS825/deluxelzy": {
@@ -9138,10 +9158,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-08": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 2,
+    "last_clones": 1,
     "last_views": 0
   },
   "SECTL/SecStore-apply": {
@@ -9155,6 +9180,11 @@
         "views": 2
       },
       "2025-12-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-08": {
         "stars": 0,
         "clones": 0,
         "views": 0
