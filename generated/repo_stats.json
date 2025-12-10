@@ -9046,7 +9046,7 @@
   },
   "LeafS825/stats": {
     "stars": 0,
-    "clones": 35,
+    "clones": 45,
     "views": 0,
     "history": {
       "2025-12-06": {
@@ -9068,10 +9068,15 @@
         "stars": 0,
         "clones": 8,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 10,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 35,
+    "last_clones": 45,
     "last_views": 0
   },
   "LeafS825/LeafS825": {
@@ -9095,6 +9100,11 @@
         "views": 0
       },
       "2025-12-09": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-10": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -9128,11 +9138,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 5,
-    "last_clones": 84,
-    "last_views": 15
+    "last_clones": 83,
+    "last_views": 10
   },
   "LeafS825/SecRandom-Hub111": {
     "stars": 0,
@@ -9155,6 +9170,11 @@
         "views": 0
       },
       "2025-12-09": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-10": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -9188,6 +9208,11 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -9196,8 +9221,8 @@
   },
   "SECTL/SecStore-apply": {
     "stars": 2,
-    "clones": 1,
-    "views": 2,
+    "clones": 2,
+    "views": 3,
     "history": {
       "2025-12-06": {
         "stars": 2,
@@ -9218,10 +9243,15 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 1,
+        "views": 1
       }
     },
     "last_stars": 2,
-    "last_clones": 1,
-    "last_views": 1
+    "last_clones": 2,
+    "last_views": 2
   }
 }
