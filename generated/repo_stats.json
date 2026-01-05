@@ -9198,15 +9198,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-01-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 129,
+    "last_clones": 128,
     "last_views": 0
   },
   "LeafS825/LeafS825": {
     "stars": 1,
-    "clones": 20,
+    "clones": 21,
     "views": 0,
     "history": {
       "2025-12-06": {
@@ -9358,16 +9363,21 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-01-05": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 2,
+    "last_clones": 3,
     "last_views": 0
   },
   "SECTL/SecRandom-docs": {
     "stars": 5,
     "clones": 177,
-    "views": 93,
+    "views": 108,
     "history": {
       "2025-12-06": {
         "stars": 5,
@@ -9518,11 +9528,16 @@
         "stars": 0,
         "clones": 5,
         "views": 3
+      },
+      "2026-01-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 15
       }
     },
     "last_stars": 5,
-    "last_clones": 86,
-    "last_views": 56
+    "last_clones": 84,
+    "last_views": 71
   },
   "LeafS825/SecRandom-Hub111": {
     "stars": 0,
@@ -9678,10 +9693,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-01-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 6,
+    "last_clones": 5,
     "last_views": 0
   },
   "LeafS825/deluxelzy": {
@@ -9838,6 +9858,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-01-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -9847,7 +9872,7 @@
   "SECTL/SecStore-apply": {
     "stars": 2,
     "clones": 6,
-    "views": 8,
+    "views": 9,
     "history": {
       "2025-12-06": {
         "stars": 2,
@@ -9998,10 +10023,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-01-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 1
       }
     },
     "last_stars": 2,
     "last_clones": 5,
-    "last_views": 1
+    "last_views": 2
   }
 }
