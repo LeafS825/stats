@@ -9403,15 +9403,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-02-15": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 189,
+    "last_clones": 186,
     "last_views": 0
   },
   "LeafS825/LeafS825": {
     "stars": 1,
-    "clones": 33,
+    "clones": 34,
     "views": 2,
     "history": {
       "2025-12-06": {
@@ -9768,15 +9773,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-02-15": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 4,
+    "last_clones": 5,
     "last_views": 0
   },
   "SECTL/SecRandom-docs": {
     "stars": 6,
-    "clones": 624,
+    "clones": 715,
     "views": 334,
     "history": {
       "2025-12-06": {
@@ -10133,15 +10143,20 @@
         "stars": 0,
         "clones": 61,
         "views": 89
+      },
+      "2026-02-15": {
+        "stars": 0,
+        "clones": 91,
+        "views": 0
       }
     },
     "last_stars": 6,
-    "last_clones": 142,
+    "last_clones": 233,
     "last_views": 111
   },
   "LeafS825/SecRandom-Hub111": {
     "stars": 0,
-    "clones": 10,
+    "clones": 11,
     "views": 0,
     "history": {
       "2025-12-06": {
@@ -10497,376 +10512,386 @@
       "2026-02-14": {
         "stars": 0,
         "clones": 0,
+        "views": 0
+      },
+      "2026-02-15": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
+    "last_clones": 3,
+    "last_views": 0
+  },
+  "LeafS825/deluxelzy": {
+    "stars": 0,
+    "clones": 11,
+    "views": 0,
+    "history": {
+      "2025-12-06": {
+        "stars": 0,
+        "clones": 2,
+        "views": 0
+      },
+      "2025-12-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-08": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-09": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      },
+      "2025-12-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-11": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-12": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-14": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-15": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-16": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-17": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-18": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-19": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-20": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-21": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      },
+      "2025-12-22": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      },
+      "2025-12-23": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-24": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-25": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      },
+      "2025-12-26": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      },
+      "2025-12-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2025-12-31": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      },
+      "2026-01-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-03": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-04": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-05": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-08": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-09": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-11": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-12": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-14": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-15": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-16": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-17": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-18": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-19": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-20": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-21": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-22": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-23": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-24": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-28": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      },
+      "2026-01-29": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-30": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-01-31": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-02": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-03": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-04": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-05": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
+      },
+      "2026-02-06": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-08": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-09": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-10": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-11": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-12": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-13": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-14": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-02-15": {
+        "stars": 0,
+        "clones": 1,
         "views": 0
       }
     },
     "last_stars": 0,
     "last_clones": 2,
-    "last_views": 0
-  },
-  "LeafS825/deluxelzy": {
-    "stars": 0,
-    "clones": 10,
-    "views": 0,
-    "history": {
-      "2025-12-06": {
-        "stars": 0,
-        "clones": 2,
-        "views": 0
-      },
-      "2025-12-07": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-08": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-09": {
-        "stars": 0,
-        "clones": 1,
-        "views": 0
-      },
-      "2025-12-10": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-11": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-12": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-13": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-14": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-15": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-16": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-17": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-18": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-19": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-20": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-21": {
-        "stars": 0,
-        "clones": 1,
-        "views": 0
-      },
-      "2025-12-22": {
-        "stars": 0,
-        "clones": 1,
-        "views": 0
-      },
-      "2025-12-23": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-24": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-25": {
-        "stars": 0,
-        "clones": 1,
-        "views": 0
-      },
-      "2025-12-26": {
-        "stars": 0,
-        "clones": 1,
-        "views": 0
-      },
-      "2025-12-27": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-28": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-29": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-30": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2025-12-31": {
-        "stars": 0,
-        "clones": 1,
-        "views": 0
-      },
-      "2026-01-01": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-02": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-03": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-04": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-05": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-06": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-07": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-08": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-09": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-10": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-11": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-12": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-13": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-14": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-15": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-16": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-17": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-18": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-19": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-20": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-21": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-22": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-23": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-24": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-25": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-26": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-27": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-28": {
-        "stars": 0,
-        "clones": 1,
-        "views": 0
-      },
-      "2026-01-29": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-30": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-01-31": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-01": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-02": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-03": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-04": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-05": {
-        "stars": 0,
-        "clones": 1,
-        "views": 0
-      },
-      "2026-02-06": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-07": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-08": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-09": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-10": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-11": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-12": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-13": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      },
-      "2026-02-14": {
-        "stars": 0,
-        "clones": 0,
-        "views": 0
-      }
-    },
-    "last_stars": 0,
-    "last_clones": 1,
     "last_views": 0
   },
   "SECTL/SecStore-apply": {
@@ -11228,10 +11253,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-02-15": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
     "last_clones": 5,
-    "last_views": 6
+    "last_views": 4
   }
 }
