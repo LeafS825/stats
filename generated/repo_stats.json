@@ -9863,10 +9863,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-18": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 361,
+    "last_clones": 284,
     "last_views": 0
   },
   "LeafS825/LeafS825": {
@@ -10688,15 +10693,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-18": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 4,
+    "last_clones": 3,
     "last_views": 0
   },
   "SECTL/SecRandom-docs": {
     "stars": 6,
-    "clones": 1009,
+    "clones": 1018,
     "views": 621,
     "history": {
       "2025-12-06": {
@@ -11513,10 +11523,15 @@
         "stars": 0,
         "clones": 8,
         "views": 8
+      },
+      "2026-05-18": {
+        "stars": 0,
+        "clones": 9,
+        "views": 0
       }
     },
     "last_stars": 6,
-    "last_clones": 60,
+    "last_clones": 69,
     "last_views": 16
   },
   "LeafS825/SecRandom-Hub111": {
@@ -12335,6 +12350,11 @@
         "views": 0
       },
       "2026-05-17": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-05-18": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -13163,6 +13183,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-18": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -13988,10 +14013,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-18": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 6,
+    "last_clones": 5,
     "last_views": 0
   },
   "Cyrene2008/Cyrene-QwenTTS-GUI-Docs": {
@@ -14448,11 +14478,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-18": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 4,
-    "last_clones": 57,
-    "last_views": 1
+    "last_clones": 43,
+    "last_views": 0
   },
   "LeafS825/SecRandom-lutter": {
     "stars": 2,
@@ -14651,7 +14686,7 @@
   },
   "LeafS825/leafs_pages": {
     "stars": 0,
-    "clones": 53,
+    "clones": 55,
     "views": 0,
     "history": {
       "2026-03-22": {
@@ -14938,14 +14973,19 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-18": {
+        "stars": 0,
+        "clones": 2,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 5,
+    "last_clones": 7,
     "last_views": 0
   },
   "SECTL/SecRandom-Lite": {
-    "stars": 4,
+    "stars": 5,
     "clones": 586,
     "views": 29,
     "history": {
@@ -15168,10 +15208,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-18": {
+        "stars": 1,
+        "clones": 0,
+        "views": 0
       }
     },
-    "last_stars": 4,
-    "last_clones": 214,
+    "last_stars": 5,
+    "last_clones": 213,
     "last_views": 12
   }
 }
