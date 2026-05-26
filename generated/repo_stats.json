@@ -9903,10 +9903,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 221,
+    "last_clones": 212,
     "last_views": 0
   },
   "LeafS825/LeafS825": {
@@ -10768,6 +10773,11 @@
         "stars": 0,
         "clones": 0,
         "views": 2
+      },
+      "2026-05-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -10776,8 +10786,8 @@
   },
   "SECTL/SecRandom-docs": {
     "stars": 6,
-    "clones": 1020,
-    "views": 637,
+    "clones": 1022,
+    "views": 639,
     "history": {
       "2025-12-06": {
         "stars": 5,
@@ -11633,11 +11643,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-26": {
+        "stars": 0,
+        "clones": 2,
+        "views": 2
       }
     },
     "last_stars": 6,
-    "last_clones": 29,
-    "last_views": 26
+    "last_clones": 31,
+    "last_views": 28
   },
   "LeafS825/SecRandom-Hub111": {
     "stars": 0,
@@ -12495,6 +12510,11 @@
         "views": 0
       },
       "2026-05-25": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-05-26": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -13363,6 +13383,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -13371,7 +13396,7 @@
   },
   "SECTL/SecStore-apply": {
     "stars": 2,
-    "clones": 39,
+    "clones": 40,
     "views": 27,
     "history": {
       "2025-12-06": {
@@ -14228,10 +14253,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-26": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 4,
+    "last_clones": 5,
     "last_views": 0
   },
   "Cyrene2008/Cyrene-QwenTTS-GUI-Docs": {
@@ -14727,6 +14757,11 @@
       "2026-05-25": {
         "stars": 0,
         "clones": 2,
+        "views": 0
+      },
+      "2026-05-26": {
+        "stars": 0,
+        "clones": 0,
         "views": 0
       }
     },
@@ -15258,6 +15293,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-26": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -15266,7 +15306,7 @@
   },
   "SECTL/SecRandom-Lite": {
     "stars": 5,
-    "clones": 587,
+    "clones": 601,
     "views": 39,
     "history": {
       "2026-04-04": {
@@ -15528,10 +15568,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-26": {
+        "stars": 0,
+        "clones": 14,
+        "views": 0
       }
     },
     "last_stars": 5,
-    "last_clones": 54,
+    "last_clones": 68,
     "last_views": 21
   }
 }
