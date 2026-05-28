@@ -9046,7 +9046,7 @@
   },
   "LeafS825/stats": {
     "stars": 0,
-    "clones": 1234,
+    "clones": 1238,
     "views": 0,
     "history": {
       "2025-12-06": {
@@ -9913,10 +9913,15 @@
         "stars": 0,
         "clones": 4,
         "views": 0
+      },
+      "2026-05-28": {
+        "stars": 0,
+        "clones": 4,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 216,
+    "last_clones": 220,
     "last_views": 0
   },
   "LeafS825/LeafS825": {
@@ -10788,6 +10793,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -10796,8 +10806,8 @@
   },
   "SECTL/SecRandom-docs": {
     "stars": 6,
-    "clones": 1022,
-    "views": 639,
+    "clones": 1023,
+    "views": 640,
     "history": {
       "2025-12-06": {
         "stars": 5,
@@ -11663,11 +11673,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-28": {
+        "stars": 0,
+        "clones": 1,
+        "views": 1
       }
     },
     "last_stars": 6,
-    "last_clones": 31,
-    "last_views": 26
+    "last_clones": 32,
+    "last_views": 27
   },
   "LeafS825/SecRandom-Hub111": {
     "stars": 0,
@@ -12535,6 +12550,11 @@
         "views": 0
       },
       "2026-05-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-05-28": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -13413,6 +13433,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -14288,6 +14313,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -14795,6 +14825,11 @@
         "views": 0
       },
       "2026-05-27": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-05-28": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -15338,6 +15373,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-05-28": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -15346,7 +15386,7 @@
   },
   "SECTL/SecRandom-Lite": {
     "stars": 5,
-    "clones": 602,
+    "clones": 606,
     "views": 39,
     "history": {
       "2026-04-04": {
@@ -15618,10 +15658,15 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2026-05-28": {
+        "stars": 0,
+        "clones": 4,
+        "views": 0
       }
     },
     "last_stars": 5,
-    "last_clones": 69,
+    "last_clones": 73,
     "last_views": 21
   }
 }
