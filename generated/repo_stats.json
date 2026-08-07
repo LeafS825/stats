@@ -9046,7 +9046,7 @@
   },
   "LeafS825/stats": {
     "stars": 0,
-    "clones": 1417,
+    "clones": 1425,
     "views": 1,
     "history": {
       "2025-12-06": {
@@ -10268,15 +10268,20 @@
         "stars": 0,
         "clones": 3,
         "views": 1
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 8,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 120,
+    "last_clones": 128,
     "last_views": 1
   },
   "LeafS825/LeafS825": {
     "stars": 1,
-    "clones": 86,
+    "clones": 87,
     "views": 10,
     "history": {
       "2025-12-06": {
@@ -11498,10 +11503,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 1,
+    "last_clones": 2,
     "last_views": 0
   },
   "SECTL/SecRandom-docs": {
@@ -12728,6 +12738,11 @@
         "stars": 0,
         "clones": 2,
         "views": 1
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 6,
@@ -13957,6 +13972,11 @@
       "2026-08-06": {
         "stars": 0,
         "clones": 1,
+        "views": 0
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 0,
         "views": 0
       }
     },
@@ -15188,6 +15208,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -15196,7 +15221,7 @@
   },
   "SECTL/SecStore-apply": {
     "stars": 2,
-    "clones": 54,
+    "clones": 55,
     "views": 28,
     "history": {
       "2025-12-06": {
@@ -16418,14 +16443,19 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 1,
+    "last_clones": 2,
     "last_views": 1
   },
   "Cyrene2008/Cyrene-QwenTTS-GUI-Docs": {
-    "stars": 7,
+    "stars": 10,
     "clones": 353,
     "views": 29,
     "history": {
@@ -17283,9 +17313,14 @@
         "stars": 1,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 3,
+        "clones": 0,
+        "views": 0
       }
     },
-    "last_stars": 7,
+    "last_stars": 10,
     "last_clones": 2,
     "last_views": 2
   },
@@ -18178,6 +18213,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -18813,6 +18853,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 5,
@@ -19118,6 +19163,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -19260,7 +19310,7 @@
     "last_views": 17
   },
   "Cyrene2008/CyreneNameRoller-Docs": {
-    "stars": 4,
+    "stars": 7,
     "clones": 124,
     "views": 2,
     "history": {
@@ -19403,10 +19453,15 @@
         "stars": 1,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 3,
+        "clones": 0,
+        "views": 0
       }
     },
-    "last_stars": 4,
-    "last_clones": 13,
+    "last_stars": 7,
+    "last_clones": 11,
     "last_views": 0
   },
   "LeafS825/token-monitor-hub": {
@@ -19548,6 +19603,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -19556,7 +19616,7 @@
   },
   "Cyrene2008/StarCyreneHomePage": {
     "stars": 1,
-    "clones": 20,
+    "clones": 27,
     "views": 1,
     "history": {
       "2026-08-01": {
@@ -19588,15 +19648,20 @@
         "stars": 0,
         "clones": 20,
         "views": 1
+      },
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 7,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 20,
+    "last_clones": 27,
     "last_views": 1
   },
   "Cyrene2008/CyreneCompass": {
-    "stars": 3,
-    "clones": 12,
+    "stars": 6,
+    "clones": 13,
     "views": 4,
     "history": {
       "2026-08-03": {
@@ -19618,16 +19683,21 @@
         "stars": 1,
         "clones": 1,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 3,
+        "clones": 1,
+        "views": 0
       }
     },
-    "last_stars": 3,
-    "last_clones": 12,
+    "last_stars": 6,
+    "last_clones": 13,
     "last_views": 4
   },
   "StarCyrene/CyreneNameRoller": {
-    "stars": 6,
-    "clones": 316,
-    "views": 27,
+    "stars": 9,
+    "clones": 337,
+    "views": 30,
     "history": {
       "2026-08-03": {
         "stars": 4,
@@ -19648,24 +19718,49 @@
         "stars": 1,
         "clones": 2,
         "views": 1
+      },
+      "2026-08-07": {
+        "stars": 3,
+        "clones": 21,
+        "views": 3
       }
     },
-    "last_stars": 5,
-    "last_clones": 316,
-    "last_views": 27
+    "last_stars": 8,
+    "last_clones": 337,
+    "last_views": 30
   },
   "Cyrene2008/VueFluentWidgets": {
-    "stars": 1,
-    "clones": 0,
-    "views": 0,
+    "stars": 4,
+    "clones": 96,
+    "views": 2,
     "history": {
       "2026-08-06": {
         "stars": 1,
         "clones": 0,
         "views": 0
+      },
+      "2026-08-07": {
+        "stars": 3,
+        "clones": 96,
+        "views": 2
       }
     },
-    "last_stars": 1,
+    "last_stars": 4,
+    "last_clones": 96,
+    "last_views": 2
+  },
+  "LeafS825/FancyCNR": {
+    "stars": 0,
+    "clones": 0,
+    "views": 0,
+    "history": {
+      "2026-08-07": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      }
+    },
+    "last_stars": 0,
     "last_clones": 0,
     "last_views": 0
   }
