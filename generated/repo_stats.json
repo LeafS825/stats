@@ -10393,10 +10393,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 97,
+    "last_clones": 84,
     "last_views": 0
   },
   "LeafS825/LeafS825": {
@@ -11745,6 +11750,11 @@
         "views": 0
       },
       "2026-08-31": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-01": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -13103,6 +13113,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 6,
@@ -14455,6 +14470,11 @@
         "views": 0
       },
       "2026-08-31": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-01": {
         "stars": 0,
         "clones": 0,
         "views": 0
@@ -15813,6 +15833,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -17168,6 +17193,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -18157,6 +18187,11 @@
       "2026-08-31": {
         "stars": 0,
         "clones": 3,
+        "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
         "views": 0
       }
     },
@@ -19178,6 +19213,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 0,
@@ -19938,6 +19978,11 @@
         "stars": 0,
         "clones": 0,
         "views": 1
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 5,
@@ -20368,6 +20413,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -20511,7 +20561,7 @@
   },
   "Cyrene2008/CyreneNameRoller-Docs": {
     "stars": 7,
-    "clones": 146,
+    "clones": 147,
     "views": 2,
     "history": {
       "2026-07-10": {
@@ -20778,15 +20828,20 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 7,
-    "last_clones": 5,
+    "last_clones": 6,
     "last_views": 0
   },
   "LeafS825/token-monitor-hub": {
     "stars": 0,
-    "clones": 18,
+    "clones": 19,
     "views": 0,
     "history": {
       "2026-07-11": {
@@ -21048,10 +21103,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 1,
+        "views": 0
       }
     },
     "last_stars": 0,
-    "last_clones": 4,
+    "last_clones": 5,
     "last_views": 0
   },
   "Cyrene2008/StarCyreneHomePage": {
@@ -21213,6 +21273,11 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
@@ -21368,10 +21433,15 @@
         "stars": 0,
         "clones": 1,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 8,
-    "last_clones": 51,
+    "last_clones": 43,
     "last_views": 25
   },
   "StarCyrene/CyreneNameRoller": {
@@ -21523,10 +21593,15 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 8,
-    "last_clones": 115,
+    "last_clones": 78,
     "last_views": 37
   },
   "Cyrene2008/VueFluentWidgets": {
@@ -21648,11 +21723,16 @@
         "stars": 0,
         "clones": 0,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 6,
-    "last_clones": 24,
-    "last_views": 5
+    "last_clones": 23,
+    "last_views": 4
   },
   "LeafS825/FancyCNR": {
     "stars": 1,
@@ -21783,10 +21863,15 @@
         "stars": 0,
         "clones": 2,
         "views": 0
+      },
+      "2026-09-01": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
       }
     },
     "last_stars": 1,
-    "last_clones": 13,
+    "last_clones": 8,
     "last_views": 0
   },
   "Cyrene2008/CyreneNameRoller-Plugin-Template": {
@@ -21885,6 +21970,11 @@
         "views": 0
       },
       "2026-08-31": {
+        "stars": 0,
+        "clones": 0,
+        "views": 0
+      },
+      "2026-09-01": {
         "stars": 0,
         "clones": 0,
         "views": 0
