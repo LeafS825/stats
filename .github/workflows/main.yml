@@ -16,12 +16,12 @@ jobs:
 
     steps:
     # Check out repository under $GITHUB_WORKSPACE, so the job can access it
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
 
     # Python 3.8 has no build for the ubuntu-26.04 runner image; 3.13 is current and
     # supported by setup-python for that image.
     - name: Set up Python 3.13
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.13'
         architecture: 'x64'
